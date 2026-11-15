@@ -1,2 +1,2 @@
-# AE-352-Quadrotor-Digital-Twin
-Digital twin of a quadrotor drone that models flight dynamics and test runs
+# AE-352-Quadrotor
+Quadrotor drone that models flight dynamics and test runs using a digital twin
